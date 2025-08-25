@@ -1,9 +1,51 @@
 ---
-title: "Projects"
+title: "Project Directory"
 ---
 
-## Project 1
+### Field Hockey
+###### Abigail White - abigail.l.white@uconn.edu
 
-## Project 2
+### Men's Basketball
+###### Amer El Zein - amer.el_zein@uconn.edu
+###### Owen Sgro - owen.sgro@uconn.edu
 
-## Project 3
+### Sports Performance
+###### Jaden Mayer-Costa - jaden.mayer-costa@uconn.edu
+
+### Volleyball
+###### Owen Babiec - owen.babiec@uconn.edu
+
+### Baseball
+###### Sara Clokey - sara.clokey@uconn.edu
+###### Sophia Fazzina - sophia.fazzina@uconn.edu
+###### Sydney Zagarola - sydney.zagarola@uconn.edu
+###### Johnathan Delskey - johnathan.delskey@uconn.edu
+
+### Men's Ice Hockey
+###### Daniel Pettit - daniel.pettit@uconn.edu
+###### Ethan Long - ethan.long@uconn.edu
+
+### Softball
+###### Joseph Landolphi - joseph.landolphi@uconn.edu
+
+### Seminar
+###### Shubhan Tamhane - shubhan.tamhane@uconn.edu
+###### Jacob Cormier - jacob.cormier@uconn.edu
+###### Lewis Milun - lewis.milun@uconn.edu
+
+### Field Hockey
+###### Nicholas Cebrik - nicholas.cebrik@uconn.edu
+
+### Men's Soccer
+###### Xavier Febles - xavier.febles@uconn.edu
+
+### Swimming and Diving
+###### Marco Cortez - marco.cortez@uconn.edu
+###### Abhinav Chandrasekhar - abhinav.chandrasekhar@uconn.edu
+
+### Women's Basketball
+###### Jacob Schlessel - jacob.schlessel@uconn.edu
+
+### Women's Soccer
+###### Nicholas Pfeifer - nicholas.pfeifer@uconn.edu
+
