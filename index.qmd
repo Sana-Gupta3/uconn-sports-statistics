@@ -2,17 +2,16 @@
 title: "Sports Statistics Experiential Learning Program"
 about:
   id: me
-  template: broadside
+  template: solana
 ---
 
 :::{#me}
 
-## Goals
+### Weekly Check-in Form:
+##### [Click here to fill out the form](https://forms.cloud.microsoft/r/nDbsedT3dH)
 
-## Education
-
-## Experience
+### Resource for making your own github website:
+##### <https://github.com/jtr13/website-template?tab=readme-ov-file>
 
 :::
 
-Thanks for checking out my web site!
