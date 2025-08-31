@@ -4,7 +4,7 @@ title: "Project Directory"
 
 ### Field Hockey
 ###### Abigail White - abigail.l.white@uconn.edu
-###### Nicholas Cebrik - nicholas.cebrik@uconn.edu
+###### Nicholas Cebrik - nicholas.cebrik@uconn.edu 
 
 ### Men's Basketball
 ###### Amer El Zein - amer.el_zein@uconn.edu
